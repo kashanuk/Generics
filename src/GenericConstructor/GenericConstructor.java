@@ -21,7 +21,7 @@ class Main {
 
         // instance of String type
         Test<String> sObj
-                = new Test<String>("GeeksForGeeks");
+                = new Test<String>("Testing");
         System.out.println(sObj.getObject());
         // iObj = sObj; // This results an error
     }
